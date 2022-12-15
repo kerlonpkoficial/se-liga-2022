@@ -1,5 +1,5 @@
 header{
-    background: #eb7777;
+    background: #f6fd36;
 }
 
 nav li{
@@ -9,3 +9,27 @@ nav li{
     font-size: 30px;
     padding: 150px;
 }
+
+h1{
+    font: 25px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+}
+.jpg{
+    width: 10%;
+    padding-left: 25%;
+}
+
+h2{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(249, 221, 93);
+};
